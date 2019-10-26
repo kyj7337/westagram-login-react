@@ -1,0 +1,25 @@
+.phone,
+.password {
+    margin-bottom: 5px;
+    display: block;
+    color: rgba(var(--i1d, 38, 38, 38), 1);
+    line-height: 18px;
+    background: #fafafa;
+    margin: 0;
+    font-size: 14px;
+    border: 1px solid #fafafa;
+    border-radius: 3px;
+    padding: 9px 0 7px 8px;
+    width: 250px;
+    height: 20px;
+}
+
+#box1,
+#box2 {
+    margin: 0 auto 4px auto;
+    width: 266px;
+    height: 36px;
+    border: 1px solid #efefef;
+    border-radius: 3px;
+    padding-bottom: 3px;
+}
